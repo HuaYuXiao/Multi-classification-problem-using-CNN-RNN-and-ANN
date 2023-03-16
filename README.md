@@ -36,3 +36,5 @@ experiment results and analysis, and concluding discussion.
 3. Presentation of project report (5 marks): The report should be well organized and
 clearly written. The problem under consideration and the developed solution (algorithm) should be clearly described. The simulation (experiment) results should be fully discussed and analyzed. Valuable conclusion should be provided. Any unclear points will get some marks off.
 4. Presentation of the codes and codes comments (5 marks): The codes should meet a good Python coding style and easy for reading. Also, the codes should be accompanied with clear and detailed code comments. Any confusion in understanding the codes may lead to some marks off.
+
+For more information, please contact linzy@sustech.edu.cn or 1628280289@qq.com.
